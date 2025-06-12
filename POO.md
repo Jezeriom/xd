@@ -4,7 +4,7 @@ Este proyecto fue desarrollado aplicando los principales conceptos de **Programa
 
 ---
 
-## 📦 1. Clases, Atributos y Métodos
+## 1. Clases, Atributos y Métodos
 
 El sistema cuenta con al menos **3 clases principales**:
 
@@ -16,7 +16,7 @@ Cada clase tiene atributos privados y métodos públicos para mantener la encaps
 
 ---
 
-## 🔁 2. Herencia y Polimorfismo
+## 2. Herencia y Polimorfismo
 
 La clase `Producto` se utiliza como **clase base abstracta**, y tiene dos subclases:
 
